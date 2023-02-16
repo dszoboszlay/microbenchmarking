@@ -1,0 +1,8 @@
+/_build
+/default
+/high-prio
+/high-prio+locked-cpu
+/locked-cpu
+/c_src/*.d
+/c_src/*.o
+/priv/*.so
